@@ -1,6 +1,6 @@
 # Using Spark to Predict Customer Churn
 
-This project is towards my Udacity Data Science nanodegree's cap stone project. 
+This project is towards my Udacity Data Science nanodegree's capstone project. 
 
 ## Overview
 Understanding customer churn (cancellation) of a service and identifying users who might churn are key business problems across many industries. This requires analyzing the data but in some industries this means dealing with big amount of data. Think about streaming services (Spotify, Apple Music …  etc)  Every interaction with the service from millions of users around the world led to generating data records. Imagine the challenge to store and analyze such big data. Apache Spark is analytics engine that was built for such challenging large-scale data processing.
