@@ -7,16 +7,16 @@ Understanding customer churn (cancellation) of a service and identifying users w
  In my capstone project I am trying to analyze customer churn for a hypothetical music streaming service called Sparkify. As decision-makers at these music streaming service provider, we would like to understand the contributing factors of such churning behaviors that will serve as the primary objective of this subject project.
  
 ## Libraries Used
--	Pyspark.ml
+- Pyspark.ml
 - Pyspark.sql
--	Matplotlib
--	Seaborn
+- Matplotlib
+- Seaborn
 	
 ## File Structure
-•	mini_sparkify_event_data.json: log data that we use in this project in JSON format.
-•	Sparkify.ipynb: this is the notebook which contains all the code for this analysis.
-•	Sparkify.html: a rendered HTML version of the notebook
+- mini_sparkify_event_data.json: log data that we use in this project in JSON format.
+- Sparkify.ipynb: this is the notebook which contains all the code for this analysis.
+- Sparkify.html: a rendered HTML version of the notebook
 
 ## Blog post
-I have detailed my steps and approach in a blog post as well
+I have detailed my steps and approach in a [blog post](https://medium.com/@one.name/using-spark-to-predict-customer-churn-c0192cc47e47) as well 
 
